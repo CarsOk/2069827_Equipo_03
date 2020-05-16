@@ -1,4 +1,4 @@
-﻿# Especificación de requisitos
+﻿# Especificación de Requerimientos
 
 1. [Proposito](Proposito.md)
 2. [Alcance](Alcance.md)
