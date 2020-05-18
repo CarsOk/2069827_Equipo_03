@@ -1,3 +1,4 @@
 ## Documentación
 
-READ ME.md
+[espesificacion de requerimientos](espesificacion de requerimientos.md)
+[Alcances](alcances.md)
