@@ -1,12 +1,11 @@
-﻿# 2069827_Equipo_03
+﻿# Especificación de Requerimientos
 
-1.
-2.
-[espesificacion de requerimientos](espesificacion de requerimientos.md)      
-3.
-[Alcances](alcances.md)
-4.
-5. [APRECIACION GLOBAL](Apreciación.G.md)
+1. [Proposito](Proposito.md)
+2. [Alcance](Alcance.md)
+3. [Definiciones, acronimos y abreviaturas](Definiciones, acronimos y abreviaturas.md)
+4. [Referencias](Referencias.md)
+5. [Apreciación global](Apreciación global.md)
+
 
 
 
