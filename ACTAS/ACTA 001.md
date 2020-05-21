@@ -1,4 +1,5 @@
 **# ACTA DE REUNION DE PROYECTO FORMATIVO 001
+
 DELIBERACION DE POSIBLES EMPRESAS PARA EL DESARROLLO DE PROYECTO #**
 
 **LUGAR:** Centro industrial y de aviacion SENA Barranquilla.
@@ -7,11 +8,16 @@ DELIBERACION DE POSIBLES EMPRESAS PARA EL DESARROLLO DE PROYECTO #**
 
 **ASISTENTES:**
 
-**Aprendiz SENA:**Gerson Vargas	
+**Aprendiz SENA:**Gerson Vargas
+	
 **Aprendiz SENA:**Luz De Aguas
+
 **Aprendiz SENA:**Jesus Varela
+
 **Aprendiz SENA:**Julius Valerio
+
 **Aprendiz SENA:**Roberto Rivera
+
 **Aprendiz SENA:**Ricardo Vasquez
 
 **AUSENTES:** Ninguno
