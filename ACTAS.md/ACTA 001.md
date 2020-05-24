@@ -1,6 +1,6 @@
 # ACTA DE REUNION DE PROYECTO FORMATIVO 001 #
 
-## DELIBERACION DE POSIBLES EMPRESAS PARA EL DESARROLLO DE PROYECTO ##
+## DELIBERACION DEL  SECTOR PRODUCTIC ##
 
 **LUGAR:** Centro industrial y de aviacion SENA Barranquilla.
 
@@ -24,20 +24,17 @@
 
 **Orden del día**
 
-Postulacion de posibles empresas o negocios, donde llevar a cabo el desarrollo del proyecto formativo. 
+Elegir sector productivo en el que el equipo se sienta comodo
 
-**Deliberación** 
+**Desarollo de la Reunion**
 
-Organización del grupo de trabajo, información de contacto de cada participante y comentarios previos.
+-- Cada integrante  dio su opinion  y punto de vista segun su criterio y experiencia laboral
 
-- Empresa de plásticos. 
+- Se relalizan preguntas para evaluar los conocimientos y saber las fortaleza y debilidades
 
-- Tienda de barrio y estanco. 
-
-- Empresa de madera. 
+- Se realizo un debate y se escogio  un sector 
 
 **Acuerdos:**
 
-**Investigar los Métodos de recolección de datos.**
+**Se llego a la concluci que el equipo donde mejor de se desarolla  y siente mayor comodidad  es en el sector productivo **
  
-**Continuar la búsqueda de empresas potenciales.**
