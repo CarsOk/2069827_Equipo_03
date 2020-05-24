@@ -26,8 +26,10 @@ Escoger empresa para el proyecto FORMATIVO.
 
 **Deliberación**
 
-Analisamos todas las opciones y recopilamos la informacion requerida para tomar la decision si usar la tienda y estanco EL PEÑOL, la empres FEDERMAG o la empresa ROCAPLAST.
+Analisamos todas las opciones y recopilamos la informacion requerida para tomar la decision si usar:
 
-**Acuerdos:** Que la mejor opcion era la empresa de madera:  FEDERMAG
+1. la tienda y estanco EL PEÑOL.
+2. la empres FEDERMAG.
+3. la empresa ROCAPLAST.
 
-**Investigar los Métodos de recolección de datos.**
+**Acuerdos:** Que la mejor opcion era la empresa de madera:  FEDERMAG; Despues de dialogar nuestras opiniones y votar llegamos a esta conclucion.
