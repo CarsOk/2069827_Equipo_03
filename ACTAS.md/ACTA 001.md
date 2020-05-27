@@ -38,3 +38,4 @@ Elegir sector productivo en el que el equipo se sienta comodo
 
 **Se llego a la concluci que el equipo donde mejor de se desarolla  y siente mayor comodidad  es en el sector productivo **
  
+**Investigar los Métodos de recolección de datos.**
