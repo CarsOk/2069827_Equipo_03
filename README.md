@@ -1,8 +1,3 @@
-# Especificación de Requerimientos
+# [Especificación de Requerimientos](https://github.com/CarsOk/2069827_Equipo_03/tree/master/DOCUMENTACION/ESPECIFICACION%20DE%20REQUERIMIENTOS)
 
-1. [Proposito](Proposito.md)
-2. [Alcance](Alcance.md)
-3. [Definiciones, acronimos y abreviaturas](Definiciones.md)
-4. [Referencias](Referencias.md)
-5. [Apreciación global](Apreciacion.md)
-6. [Actas](ACTAS.md)
+# [Actas](https://github.com/CarsOk/2069827_Equipo_03/tree/master/ACTAS.md)
