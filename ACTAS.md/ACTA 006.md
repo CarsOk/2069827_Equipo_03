@@ -36,5 +36,5 @@ Explicación realases (versionar)
 
 **ACUERDOS:**
 
-Ver el video (link)
+Ver el video https://www.youtube.com/watch?v=hwlOuZvaDIA&feature=youtu.be
 Empezar a hacer realesse semanal en GitHub
